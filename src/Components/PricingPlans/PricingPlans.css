@@ -1,0 +1,102 @@
+.PricingPlans__headerimg{
+    background-image: linear-gradient(34deg, rgba(72,72,72,1) 0%, rgba(0,0,0,0.6615021008403361) 0%),url("https://i.ibb.co/yXqnRxP/edgar-chaparro-s-Hfo3-WOg-GTU-unsplash.jpg");
+    width: 100%;
+    height:500px;
+    background-size: cover;
+    background-position: center center;
+    background-size: 100% 100%;
+    padding: none;
+    
+
+}
+.PricingPlans__heading{
+    color: white;
+    text-align:center;
+    padding-top: 250px;
+}
+.heading__color{
+    color: #FCCA42;
+    text-align: center;
+}
+.color{
+    text-align: center;
+    padding: 40px
+}
+
+.plans__section {
+    overflow: hidden;
+    height: auto;
+    width: 100%;
+    margin-left: none;
+    margin: 0 auto;
+}
+.plans{
+    width: 350px;
+    background-size: cover;
+    background-position: center center;
+    background-size: 100% 100%;
+    margin-bottom: 50px;
+    margin-right: 15px;
+    margin-left: 15px
+    
+    
+}
+.details{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 60px;
+    margin:20px;
+}
+.details h4{
+    color:#FCCA42 ;
+    font-size: 15px
+}
+
+
+
+.myButton {
+	background-color:#FCCA42;
+	border:1px solid #241d13;
+	display:inline-block;
+	cursor:pointer;
+	color:black;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 35px;
+	text-decoration:none;
+    text-shadow:black;
+    margin-top: 40px;
+    margin-bottom: 30px
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+li{
+    text-align: justify;
+    padding: 6px
+}
+.details h2{
+    font-size:30px
+}
+.details h1{
+    font-size:30px;
+    color:#FCCA42;
+    font-size: 50px
+}
+
+.plan__one{
+    background-image: linear-gradient(34deg, rgba(72,72,72,1) 0%, rgba(0,0,0,0.6615021008403361) 0%),url("https://i.ibb.co/L16ywjy/hipcravo-5-Ub-Iq-V58-CW8-unsplash.jpg");
+
+}
+.plan__two{
+    background-image: linear-gradient(34deg, rgba(72,72,72,1) 0%, rgba(0,0,0,0.6615021008403361) 0%),url("https://i.ibb.co/NnXFRvK/penguinuhh-8-VI6-Ww-EEEHw-unsplash.jpg");
+
+}
+.plan__three{
+    background-image: linear-gradient(34deg, rgba(72,72,72,1) 0%, rgba(0,0,0,0.6615021008403361) 0%),url("https://i.ibb.co/h2yYYR4/daniel-apodaca-Wdo-Qio6-HPVA-unsplash.jpg");
+
+}
